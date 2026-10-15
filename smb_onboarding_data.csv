@@ -1,0 +1,16 @@
+business_id,business_category,city,signup_completed,gbp_connected,ai_template_generated,first_campaign_launched,time_to_launch_mins,leads_generated_week1,day7_active
+SMB_101,Salon & Spa,Mumbai,1,1,1,1,8,14,1
+SMB_102,Dental Clinic,Delhi,1,1,1,1,11,9,1
+SMB_103,Fitness Gym,Bengaluru,1,1,0,0,,0,0
+SMB_104,Retail Boutique,Pune,1,1,1,1,6,19,1
+SMB_105,Salon & Spa,Mumbai,1,0,0,0,,0,0
+SMB_106,Cafe & Bakery,Hyderabad,1,1,1,1,9,22,1
+SMB_107,Dental Clinic,Mumbai,1,1,1,0,,0,0
+SMB_108,Fitness Gym,Delhi,1,1,1,1,12,11,1
+SMB_109,Salon & Spa,Bengaluru,1,1,1,1,7,16,1
+SMB_110,Retail Boutique,Mumbai,1,0,0,0,,0,0
+SMB_111,Cafe & Bakery,Pune,1,1,1,1,10,18,1
+SMB_112,Dental Clinic,Bengaluru,1,1,1,1,14,7,1
+SMB_113,Salon & Spa,Delhi,1,1,0,0,,0,0
+SMB_114,Fitness Gym,Mumbai,1,1,1,1,8,15,1
+SMB_115,Retail Boutique,Hyderabad,1,1,1,1,9,12,0
